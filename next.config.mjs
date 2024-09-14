@@ -6,7 +6,8 @@ const nextConfig = {
       },
     images:{
       domains:['avatars.githubusercontent.com'],
-    }
+    },
+    trustHost:true
 };
 
 export default nextConfig;
